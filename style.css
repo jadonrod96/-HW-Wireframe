@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box
+}
+body {
+    background: #777;
+    color: #777;
+    width: 960px;
+    font-size: 18px;
+    position: absolute;
+}
+#Header {
+    background: #ebebeb;
+    margin: 0 auto 0 auto;
+    text-align: center;
+}
+
+#Nav {
+    background: #ebebeb;
+    text-align: center;
+}
+
+#Section {
+    background: #ebebeb;
+    color: #777;
+    position: relative;
+    width: 500px;
+    text-align: center;
+
+    
+}
+#Article {
+    color: #ebebeb;
+    background: #777;
+    position: relative;
+    width: 400px;
+    
+}
+#TheHs {
+    color: #777;
+    background: #ebebeb;
+    height: 50px;
+    position: relative;
+
+    
+}
+#SectionP {
+    Color: #777;
+    background: #ebebeb;
+    padding: 20px;
+}
+
+#Aside {
+    background: #ebebeb;
+    float: left;
+    width: 300px;
+}
+
+#Footer {
+    background: #ebebeb;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    position: absolute;
+    text-align: center;
+}
